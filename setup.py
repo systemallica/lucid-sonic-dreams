@@ -19,7 +19,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    install_requires=['tensorflow==1.15',
+    install_requires=['tensorflow==1.15.5',
                       'librosa',
                       'numpy',
                       'moviepy',
